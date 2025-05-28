@@ -8,7 +8,6 @@
   <name>demo</name>
   <version>1.0.0</version>
   <packaging>jar</packaging>
-  <name>demo</name>
   <description>Demo Spring Boot project</description>
 
   <parent>
